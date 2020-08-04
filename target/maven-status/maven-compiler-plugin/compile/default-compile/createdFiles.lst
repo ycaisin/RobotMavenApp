@@ -1,0 +1,7 @@
+robo\AbstractRobot.class
+robo\BetaRobot.class
+robo\CoordinateRangeException.class
+main\Application.class
+robo\CharlieRobot.class
+robo\AlphaRobot.class
+robo\RobotFactory.class
